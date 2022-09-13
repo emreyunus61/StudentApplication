@@ -19,6 +19,7 @@ public class Student {
     private  String  stdName;
     private  String  stdClass;
     private  String  schoolName;
+    private  String  schoolName2;
 
 
 }
